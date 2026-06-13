@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maneesha Harshani</h1>
 <h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
 
-<p="left-top">
+<p="center">
   <img src="WhatsApp Image 2026-06-13 at 12.57.55.jpeg" 
     alt="Maneesha Harshani"
     width="200"
