@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Maneesha Harshani</h1>
 <h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
 
+<p align="center">
+  <img src=""C:\Users\maneesha\Pictures\WhatsApp Image 2026-06-13 at 12.57.55.jpeg"" alt="Maneesha Harshani" width="200" style="border-radius:50%;"/>
+</p>
+
+
 - 🌱 I’m a undergraduate **student.**
 
 - 📫 How to reach me **2021icts041@stu.vau.ac.lk**
