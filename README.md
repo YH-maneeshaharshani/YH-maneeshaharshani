@@ -5,8 +5,8 @@
   <img src="WhatsApp Image 2026-06-13 at 12.57.55.jpeg" 
     alt="Maneesha Harshani"
     width="200"
-    height="200"
-    style="border-radius:50%;"/>
+ 
+    style="border-radius:100%;"/>
 </p>
 
 
