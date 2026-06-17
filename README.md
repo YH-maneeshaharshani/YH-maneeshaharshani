@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
 <table width="100%">
 <tr>
-<td bgcolor="#FFD6E8" style="padding:15px;">
+<td bgcolor="#FFD6E8" style="padding:100px;">
 <img src="https://github.com/YH-maneeshaharshani/YH-maneeshaharshani/blob/main/WhatsApp%20Image%202026-06-13%20at%2012.57.55-fotor-2026061713724.png"
      alt="Maneesha Harshani"
      width="200"
