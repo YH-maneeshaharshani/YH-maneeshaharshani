@@ -7,8 +7,8 @@
 <td bgcolor="#FFD6E8" style="padding:100px;">
 <img src="profile.png"
      alt="Maneesha Harshani"
-     width="200"
-     style="border-radius:50%;" />
+     width="100%"
+      />
 </td>
 </tr>
 </table>
