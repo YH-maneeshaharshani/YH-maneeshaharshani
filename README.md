@@ -5,7 +5,7 @@
 <table width="100%">
 <tr>
 <td bgcolor="#FFD6E8" style="padding:15px;">
-<img src="WhatsApp Image 2026-06-13 at 12.57.55.jpeg"
+<img src="https://github.com/YH-maneeshaharshani/YH-maneeshaharshani/blob/main/WhatsApp%20Image%202026-06-13%20at%2012.57.55-fotor-2026061713724.png"
      alt="Maneesha Harshani"
      width="200"
      style="border-radius:50%;" />
