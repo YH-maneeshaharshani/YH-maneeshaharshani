@@ -2,14 +2,16 @@
 
 <h1 align="center">Hi 👋, I'm Maneesha Harshani</h1>
 <h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
-
-<p align="center">
-  <img src="WhatsApp Image 2026-06-13 at 12.57.55.jpeg" 
-    alt="Maneesha Harshani"
-    width="200"
-    style="border-radius:50%;"/>
-</p>
-
+<table align="center">
+<tr>
+<td bgcolor="#FFD6E8" style="padding:15px;">
+<img src="WhatsApp Image 2026-06-13 at 12.57.55.jpeg"
+     alt="Maneesha Harshani"
+     width="200"
+     style="border-radius:50%;" />
+</td>
+</tr>
+</table>
 
 - 🌱 I’m a undergraduate **student.**
 
