@@ -1,4 +1,4 @@
-<body style="background-color:#C0C0C0; margin:0;">
+<body style="background-color:#000000; margin:0;">
 <div>
 <table width="100%">
 <tr>
